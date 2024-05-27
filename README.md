@@ -58,4 +58,25 @@ The last task required by the project was selecting and uploading four additiona
 
 The project required the programmer to answer the following four questions before submission, which were related to the performances of the three model architectures in the last classification.
 
+Questions regarding Uploaded Image Classification:
+
+1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
+
+Answer: Yes, the three model architectures classified the breed of dog in Dog_01.jpg to be the same breed.
+
+
+2. Did each of the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg? If not, report the differences in the classifications.
+
+Answer: No, only resnet classified the breed of dog which is a beagle in Dog_O1.jpg to be the same breed as in Dog_02.jpg. Whereas, vgg classified the breed of Dog_02.jpg as muzzle and alexnet classified the breed of Dog_02.jpg as boxer.
+
+
+3. Did the three model architectures correctly classify Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs? If not, report the misclassifications.
+
+Answer: Yes, the three model architectures correctly classified Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs.
+
+
+4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
+
+Answer: I think from the above 3 model architectures resnet did the best work at classifying the four uploaded images as it correctly classified both Dog_01.jpg and Dog_02.jpg images.
+
 
