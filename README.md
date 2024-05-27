@@ -48,7 +48,7 @@ The tasks in 1-7 were to be repeated for each of the three image classification 
 
 The total images to classify were 40, 10 of which were not dogs. The three architectures performed as follows:
 
-![This is a table of the results](images/results.png)
+![This is a table of the results](results.png)
 
 ## Additional task: Uploading 4 new images to further test the performance of the three architectures
 
